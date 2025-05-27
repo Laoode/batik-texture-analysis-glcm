@@ -9,7 +9,7 @@ Gray Level Co-occurrence Matrix (GLCM) based texture feature extraction for Indo
 - Interactive image selection for specific analysis
 
 ## Dataset
-- Sample of 60 batik images from ITB Batik Dataset
+- Sample of 60 batik images from [ITB Batik Dataset](https://data.mendeley.com/datasets/7hzr5539ws/1)
 - Images numbered 100-129 (includes variants a and b)
 
 ## Usage
